@@ -1,4 +1,7 @@
 {
+	"name": "snowpack-react-ts",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
